@@ -1,5 +1,4 @@
 import React from 'react';
-import { useSelector } from 'react-redux';
 import api from '~/services/api';
 // import { Container } from './styles';
 
