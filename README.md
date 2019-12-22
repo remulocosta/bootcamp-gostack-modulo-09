@@ -6,7 +6,7 @@
   Aplicação GoBarber
 </h1>
 
-<p align="center">A little description about your project</p>
+<p align="center">Aplicação Web GoBarber interface voltada para o prestador de serviço </p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -26,12 +26,11 @@
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in mobile development!
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
 - 💹 **Node Js** — A web framework for Node Js
 
 ## Getting started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ yarn install on project directory
 
 ## Available Scripts
 
